@@ -1,0 +1,5 @@
+{
+  "name": "Charisma Gold & Silver Tracker",
+  "description": "Real-time gold and silver price tracking with portfolio management and smart alerts based on Charisma API.",
+  "requestFramePermissions": []
+}
